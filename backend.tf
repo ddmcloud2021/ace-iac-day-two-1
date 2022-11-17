@@ -3,7 +3,7 @@ terraform {
   backend "remote" {
     organization = "DDMCLOUD2021"
     workspaces {
-      name = "ace-iac-day-two"
+      name = "ace-iac-day-two-1"
     }
   }
 }
