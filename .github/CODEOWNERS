@@ -7,7 +7,7 @@
 app-fqdn-rules.tf charmingnyc
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @ddmcloud2021
-provider.tf @dmcloud2021
-variables.tf @dmcloud2021
-versions.tf @dmcloud2021
+main.tf ddm-secops
+provider.tf ddm-secops
+variables.tf ddm-secops
+versions.tf ddm-secops
